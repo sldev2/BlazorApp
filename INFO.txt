@@ -1,3 +1,7 @@
 made from command line:
 
 > dotnet new blazorwasm -o BlazorApp --hosted    // BlazorApp is the name of the solution
+
+
+local:  C:\vs2022\MSTEMPLATES\BlazorApp
+
